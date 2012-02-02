@@ -1,0 +1,324 @@
+TPaparazzi
+v7
+r1
+
+N/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004B73FC5E000000000052F740
+t1265892446
+s5437248
+
+N/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000000000000000000000000000
+t2
+s0
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.xib
+c000000004CF44D190000000000001877
+t1291078937
+s6263
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.xib
+c000000004D018E880000000000006010
+t1291947656
+s24592
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.xib
+c000000004CF369DF00000000000059E5
+t1291020767
+s23013
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.xib
+c000000004CF44A72000000000000729B
+t1291078258
+s29339
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.xib
+c000000004CF44D970000000000004E1C
+t1291079063
+s19996
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/FakeData.plist
+c000000004B68DDF0000000000000029F
+t1265163760
+s671
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0416.JPG
+c000000004C9E2E2F0000000000038721
+t1285434927
+s231201
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0434.JPG
+c000000004CA5E2B6000000000001D633
+t1285939894
+s120371
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0438.JPG
+c000000004CA5E36A000000000001CFAF
+t1285940074
+s118703
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0440.JPG
+c000000004CA5E3B4000000000001531C
+t1285940148
+s86812
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/MainWindow.xib
+c000000004D0221DC000000000000A406
+t1291985372
+s41990
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Paparazzi_Prefix.pch
+c000000004CE96FE800000000000000BB
+t1290366952
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/SK 네트웍스.jpg
+c000000004C88577B0000000000002DDB
+t1284003707
+s11739
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.xib
+c000000004CF36A300000000000005667
+t1291020848
+s22119
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.xib
+c000000004CF366D90000000000001883
+t1291019993
+s6275
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Info.plist
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/FakeData.plist
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/FourthViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/IMG_0416.JPG
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/IMG_0434.JPG
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/IMG_0438.JPG
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/IMG_0440.JPG
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/PersonListViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/PhotoListViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/SK 네트웍스.jpg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/SecondPersonViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/SecondPhotoViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/ThirdPersonViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/ThirdPhotoViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/images-1.jpeg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/photo1.jpg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/photo2.jpg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/photo3.jpg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/증명사진.jpeg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug/Paparazzi.build/Objects-normal/i386/Paparazzi
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug/Paparazzi.build/Objects-normal/i386/Paparazzi.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug/Paparazzi.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/images-1.jpeg
+c000000004C889BB500000000000028B1
+t1284021173
+s10417
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m
+c000000004CE96FE80000000000000166
+t1290366952
+s358
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo1.jpg
+c000000004B68DDF00000000000021974
+t1265163760
+s137588
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo2.jpg
+c000000004B68DDF000000000000181A8
+t1265163760
+s98728
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo3.jpg
+c000000004B68DDF00000000000023846
+t1265163760
+s145478
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/증명사진.jpeg
+c000000004CA420BE000000000001008C
+t1285824702
+s65676
+
+N/usr/lib/libsqlite3.0.dylib
+c000000004C23DA690000000000253560
+t1277418089
+s2438496
+
+N/var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-erygzzirfrzvbqcjnrvwykfgsyfg/Paparazzi_Prefix.pch.gch
+t2
+s0
+
+NPaparazzi-Info.plist
+c000000004CE96FE8000000000000038D
+t1290366952
+s909
+
+CCompileC build/Paparazzi.build/Debug/Paparazzi.build/Objects-normal/i386/main.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.xib"
+r0
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.xib"
+r0
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.xib"
+r0
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.xib"
+r0
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.xib"
+r0
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.xib"
+r0
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.xib"
+r0
+
+CCopyPlistFile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Resources/FakeData.plist" FakeData.plist
+r0
+
+CCpResource "build/Debug/Paparazzi.app/Contents/Resources/SK 네트웍스.jpg" "SK 네트웍스.jpg"
+r0
+
+CCpResource build/Debug/Paparazzi.app/Contents/Resources/IMG_0416.JPG IMG_0416.JPG
+r0
+
+CCpResource build/Debug/Paparazzi.app/Contents/Resources/IMG_0434.JPG IMG_0434.JPG
+r0
+
+CCpResource build/Debug/Paparazzi.app/Contents/Resources/IMG_0438.JPG IMG_0438.JPG
+r0
+
+CCpResource build/Debug/Paparazzi.app/Contents/Resources/IMG_0440.JPG IMG_0440.JPG
+r0
+
+CCpResource build/Debug/Paparazzi.app/Contents/Resources/images-1.jpeg images-1.jpeg
+r0
+
+CCpResource build/Debug/Paparazzi.app/Contents/Resources/photo1.jpg photo1.jpg
+r0
+
+CCpResource build/Debug/Paparazzi.app/Contents/Resources/photo2.jpg photo2.jpg
+r0
+
+CCpResource build/Debug/Paparazzi.app/Contents/Resources/photo3.jpg photo3.jpg
+r0
+
+CCpResource build/Debug/Paparazzi.app/Contents/Resources/증명사진.jpeg 증명사진.jpeg
+r0
+
+CLd "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug/Paparazzi.build/Objects-normal/i386/Paparazzi" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app/Contents/Info.plist" Paparazzi-Info.plist
+r0
+
+CProcessPCH /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-erygzzirfrzvbqcjnrvwykfgsyfg/Paparazzi_Prefix.pch.gch Paparazzi_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug/Paparazzi.app"
+r0
+

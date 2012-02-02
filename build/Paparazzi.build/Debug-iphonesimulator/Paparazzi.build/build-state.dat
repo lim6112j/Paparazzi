@@ -1,0 +1,912 @@
+TPaparazzi
+v7
+r0
+t315713773.720029
+cCheck dependencies
+cProcessInfoPlistFile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Info.plist" Paparazzi-Info.plist
+cCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/MainWindow.xib"
+cCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.xib"
+cCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.xib"
+cCpResource "build/Debug-iphonesimulator/Paparazzi.app/SK 네트웍스.jpg" "SK 네트웍스.jpg"
+cCpResource build/Debug-iphonesimulator/Paparazzi.app/증명사진.jpeg 증명사진.jpeg
+cCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.xib"
+cCpResource build/Debug-iphonesimulator/Paparazzi.app/images-1.jpeg images-1.jpeg
+cCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.xib"
+cCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.xib"
+cCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.xib"
+cCpResource build/Debug-iphonesimulator/Paparazzi.app/IMG_0416.JPG IMG_0416.JPG
+cCpResource build/Debug-iphonesimulator/Paparazzi.app/IMG_0434.JPG IMG_0434.JPG
+cCpResource build/Debug-iphonesimulator/Paparazzi.app/IMG_0438.JPG IMG_0438.JPG
+cCpResource build/Debug-iphonesimulator/Paparazzi.app/IMG_0440.JPG IMG_0440.JPG
+cCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.xib"
+cCopyPlistFile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/FakeData.plist" FakeData.plist
+cCpResource build/Debug-iphonesimulator/Paparazzi.app/photo1.jpg photo1.jpg
+cCpResource build/Debug-iphonesimulator/Paparazzi.app/photo2.jpg photo2.jpg
+cCpResource build/Debug-iphonesimulator/Paparazzi.app/photo3.jpg photo3.jpg
+cProcessPCH /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch.gch Paparazzi_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/temp.mom" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/temp.xcdatamodel"
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/main.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PaparazziAppDelegate.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/SecondPersonViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/ThirdPersonViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/SecondPhotoViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/ThirdPhotoViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/FourthViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/FlickrFetcher.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/../FlickrFetcher.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Photo.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Photo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Person.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/Person.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi" normal i386
+cGenerateDSYMFile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app.dSYM" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi"
+cTouch "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/../FlickrFetcher.m
+c000000004B6F94E300000000000017D4
+t1265603811
+s6100
+i"FlickrFetcher.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.h
+c000000004CF44D1900000000000000E9
+t1291078937
+s233
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.m
+c000000004CF44D1900000000000005A5
+t1291078937
+s1445
+i"FourthViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.xib
+c000000004CF44D190000000000001877
+t1291078937
+s6263
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.h
+c000000004D005C4400000000000002F4
+t1291869252
+s756
+i<UIKit/UIKit.h>
+i"PersonListViewController.h"
+i"PhotoListViewController.h"
+i"FlickrFetcher.h"
+i"/usr/include/sqlite3.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.m
+c000000004D0327EF00000000000012E6
+t1292052463
+s4838
+i"PaparazziAppDelegate.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/Person.h
+c000000004D00947900000000000001AF
+t1291883641
+s431
+i<Foundation/Foundation.h>
+i"FlickrFetcher.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/Person.m
+c000000004D0099450000000000000116
+t1291884869
+s278
+i"Person.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.h
+c000000004D043FD2000000000000028D
+t1292124114
+s653
+i<UIKit/UIKit.h>
+i"SecondPersonViewController.h"
+i"FlickrFetcher.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.m
+c000000004D043F440000000000002CDF
+t1292123972
+s11487
+i"PersonListViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.xib
+c000000004D018E880000000000006010
+t1291947656
+s24592
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.h
+c000000004CF367100000000000000159
+t1291020048
+s345
+i<UIKit/UIKit.h>
+i"SecondPhotoViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.m
+c000000004CF36A91000000000000062E
+t1291020945
+s1582
+i"PhotoListViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.xib
+c000000004CF369DF00000000000059E5
+t1291020767
+s23013
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.h
+c000000004CF365800000000000000192
+t1291019648
+s402
+i<UIKit/UIKit.h>
+i"ThirdPersonViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.m
+c000000004CF366290000000000000696
+t1291019817
+s1686
+i"SecondPersonViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.xib
+c000000004CF44A72000000000000729B
+t1291078258
+s29339
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.h
+c000000004CF44D5F0000000000000157
+t1291079007
+s343
+i<UIKit/UIKit.h>
+i"FourthViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.m
+c000000004CF44D5F0000000000000662
+t1291079007
+s1634
+i"ThirdPersonViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.xib
+c000000004CF44D970000000000004E1C
+t1291079063
+s19996
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/test.h
+c000000004D201C3700000000000000C7
+t1293950007
+s199
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/test.m
+c000000004D201C3700000000000005F5
+t1293950007
+s1525
+i"test.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/FakeData.plist
+c000000004B68DDF0000000000000029F
+t1265163760
+s671
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/FlickrFetcher.h
+c000000004CF45FD60000000000000446
+t1291083734
+s1094
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0416.JPG
+c000000004C9E2E2F0000000000038721
+t1285434927
+s231201
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0434.JPG
+c000000004CA5E2B6000000000001D633
+t1285939894
+s120371
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0438.JPG
+c000000004CA5E36A000000000001CFAF
+t1285940074
+s118703
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0440.JPG
+c000000004CA5E3B4000000000001531C
+t1285940148
+s86812
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/MainWindow.xib
+c000000004D0221DC000000000000A406
+t1291985372
+s41990
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Paparazzi_Prefix.pch
+c000000004CE96FE800000000000000BB
+t1290366952
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Photo.h
+c000000004D007A7F00000000000000CC
+t1291876991
+s204
+i<Foundation/Foundation.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Photo.m
+c000000004D007A7F00000000000000B1
+t1291876991
+s177
+i"Photo.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/SK 네트웍스.jpg
+c000000004C88577B0000000000002DDB
+t1284003707
+s11739
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.h
+c000000004CF369F7000000000000015B
+t1291020791
+s347
+i<UIKit/UIKit.h>
+i"ThirdPhotoViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.m
+c000000004CF36A910000000000000660
+t1291020945
+s1632
+i"SecondPhotoViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.xib
+c000000004CF36A300000000000005667
+t1291020848
+s22119
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.h
+c000000004CF366D900000000000000F1
+t1291019993
+s241
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.m
+c000000004CF36A9100000000000005FE
+t1291020945
+s1534
+i"ThirdPhotoViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.xib
+c000000004CF366D90000000000001883
+t1291019993
+s6275
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app
+t1294020970
+s850
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app.dSYM
+t1294020970
+s102
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/FakeData.plist
+t1294020968
+s189
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/FourthViewController.nib
+t1294020968
+s1974
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/IMG_0416.JPG
+t1294020967
+s231201
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/IMG_0434.JPG
+t1294020967
+s120371
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/IMG_0438.JPG
+t1294020967
+s118703
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/IMG_0440.JPG
+t1294020967
+s86812
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Info.plist
+t1294020965
+s599
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/MainWindow.nib
+t1294020966
+s2135
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi
+t1294020970
+s67676
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PersonListViewController.nib
+t1294020966
+s1146
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PhotoListViewController.nib
+t1294020966
+s1975
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PkgInfo
+t1294020965
+s8
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/SK 네트웍스.jpg
+t1294020966
+s11739
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/SecondPersonViewController.nib
+t1294020967
+s1187
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/SecondPhotoViewController.nib
+t1294020967
+s1976
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/ThirdPersonViewController.nib
+t1294020967
+s1734
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/ThirdPhotoViewController.nib
+t1294020968
+s764
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/images-1.jpeg
+t1294020966
+s10417
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/photo1.jpg
+t1294020968
+s137588
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/photo2.jpg
+t1294020968
+s98728
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/photo3.jpg
+t1294020968
+s145478
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/temp.mom
+t1294020969
+s1948
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/증명사진.jpeg
+t1294020966
+s65676
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/FlickrFetcher.o
+t1294020969
+s29708
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/FourthViewController.o
+t1294020969
+s44656
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Paparazzi.LinkFileList
+c000000004D213165000000000000074F
+t1294020965
+s1871
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PaparazziAppDelegate.o
+t1294020969
+s72460
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Person.o
+t1294020969
+s5268
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o
+t1294020969
+s76392
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Photo.o
+t1294020969
+s5276
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o
+t1294020969
+s39916
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/SecondPersonViewController.o
+t1294020969
+s74608
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/SecondPhotoViewController.o
+t1294020969
+s39768
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/ThirdPersonViewController.o
+t1294020969
+s47764
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/ThirdPhotoViewController.o
+t1294020969
+s38620
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/main.o
+t1294020969
+s6336
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/test.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/images-1.jpeg
+c000000004C889BB500000000000028B1
+t1284021173
+s10417
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m
+c000000004CE96FE80000000000000166
+t1290366952
+s358
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo1.jpg
+c000000004B68DDF00000000000021974
+t1265163760
+s137588
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo2.jpg
+c000000004B68DDF000000000000181A8
+t1265163760
+s98728
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo3.jpg
+c000000004B68DDF00000000000023846
+t1265163760
+s145478
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/temp.xcdatamodel
+c000000004D22BC590000000000000088
+t1294122073
+s136
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/증명사진.jpeg
+c000000004CA420BE000000000001008C
+t1285824702
+s65676
+
+N/usr/include/sqlite3.h
+c000000004C239FC5000000000003D86F
+t1277403077
+s252015
+
+N/var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch.gch
+t1294020969
+s15453392
+
+NPaparazzi-Info.plist
+c000000004CE96FE8000000000000038D
+t1290366952
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315713773#315713773#0(0"0(0#1#0"8647241152#0"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/FlickrFetcher.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/../FlickrFetcher.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.748675
+e315713769.887779
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/FlickrFetcher.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/../FlickrFetcher.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/../FlickrFetcher.m315713769#315713769#0(0"0(0#0#81"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/../FlickrFetcher.m8652400896#2181"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/../FlickrFetcher.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/FlickrFetcher.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/FourthViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.733555
+e315713769.863198
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/FourthViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.m315713769#315713769#0(0"0(0#0#85"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.m8655665056#2192"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/FourthViewController.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PaparazziAppDelegate.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.198646
+e315713769.375500
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PaparazziAppDelegate.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.m315713769#315713769#0(0"0(0#0#85"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.m8647529792#2192"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PaparazziAppDelegate.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Person.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/Person.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.887919
+e315713769.979058
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Person.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/Person.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/Person.m315713769#315713769#0(0"0(0#0#71"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/Person.m8648285952#2164"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/Person.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Person.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.257672
+e315713769.445538
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.m315713769#315713769#0(0"0(0#0#89"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.m8618871776#2200"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PersonListViewController.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Photo.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Photo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.863354
+e315713769.954001
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Photo.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Photo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/Photo.m315713769#315713769#0(0"0(0#0#62"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Photo.m8649168096#2154"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Photo.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Photo.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.375646
+e315713769.484365
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.m315713769#315713769#0(0"0(0#0#88"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.m8653118496#2198"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/PhotoListViewController.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/SecondPersonViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.445683
+e315713769.629773
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/SecondPersonViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.m315713769#315713769#0(0"0(0#0#91"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.m8649937664#2204"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/SecondPersonViewController.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/SecondPhotoViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.617579
+e315713769.733422
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/SecondPhotoViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.m315713769#315713769#0(0"0(0#0#82"/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.m8650366080#2194"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/SecondPhotoViewController.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/ThirdPersonViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.484506
+e315713769.617444
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/ThirdPersonViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.m315713769#315713769#0(0"0(0#0#90"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.m8648266272#2202"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/ThirdPersonViewController.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/ThirdPhotoViewController.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.629903
+e315713769.748522
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/ThirdPhotoViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.m315713769#315713769#0(0"0(0#0#81"/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.m8647214880#2192"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/ThirdPhotoViewController.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/main.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713769.176545
+e315713769.257536
+r1
+xCompileC
+xbuild/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/main.o
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m315713769#315713769#0(0"0(0#0#61"/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m8658390848#2152"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/test.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/test.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.xib"
+s315713767.700436
+e315713768.271722
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.xib
+lSLF07#2@43"CompileXIB Classes/FourthViewController.xib315713767#315713768#0(0"0(0#0#87"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.xib8641249248#654"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/FourthViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/FourthViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.xib"
+s315713765.836943
+e315713766.322720
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.xib
+lSLF07#2@47"CompileXIB Classes/PersonListViewController.xib315713765#315713766#0(0"0(0#0#91"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.xib8665002144#662"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PersonListViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PersonListViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.xib"
+s315713766.322838
+e315713766.962925
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.xib
+lSLF07#2@46"CompileXIB Classes/PhotoListViewController.xib315713766#315713766#0(0"0(0#0#90"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.xib8651030784#660"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PhotoListViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PhotoListViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.xib"
+s315713766.445527
+e315713767.143051
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.xib
+lSLF07#2@49"CompileXIB Classes/SecondPersonViewController.xib315713766#315713767#0(0"0(0#0#93"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.xib8649252608#666"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/SecondPersonViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/SecondPersonViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.xib"
+s315713766.964421
+e315713767.557754
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.xib
+lSLF07#2@48"CompileXIB Classes/ThirdPersonViewController.xib315713766#315713767#0(0"0(0#0#92"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.xib8659104384#664"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/ThirdPersonViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/ThirdPersonViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/MainWindow.xib"
+s315713765.833064
+e315713766.438679
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315713765#315713766#0(0"0(0#0#69"/Users/lim6112j/Documents/iPhone Development/Paparazzi/MainWindow.xib8649549248#626"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/MainWindow.nib" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.xib"
+s315713767.143159
+e315713767.676651
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.xib
+lSLF07#2@40"CompileXIB SecondPhotoViewController.xib315713767#315713767#0(0"0(0#0#84"/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.xib8655580896#656"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/SecondPhotoViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/SecondPhotoViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.xib"
+s315713767.557981
+e315713768.100715
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.xib
+lSLF07#2@39"CompileXIB ThirdPhotoViewController.xib315713767#315713768#0(0"0(0#0#83"/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.xib8652006144#654"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/ThirdPhotoViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/ThirdPhotoViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/FakeData.plist" FakeData.plist
+s315713768.100850
+e315713768.130553
+r1
+xCopyPlistFile
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/FakeData.plist
+xFakeData.plist
+lSLF07#2@19"Copy FakeData.plist315713768#315713768#0(0"0(0#0#69"/Users/lim6112j/Documents/iPhone Development/Paparazzi/FakeData.plist8652497696#427"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 FakeData.plist --outdir "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Paparazzi.app/SK 네트웍스.jpg" "SK 네트웍스.jpg"
+s315713766.438796
+e315713766.449758
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Paparazzi.app/SK 네트웍스.jpg
+xSK 네트웍스.jpg
+lSLF07#2@39"Copy SK 네트웍스.jpg315713766#315713766#0(0"0(0#0#89"/Users/lim6112j/Documents/iPhone Development/Paparazzi/SK 네트웍스.jpg8628313696#548"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Paparazzi/SK 네트웍스.jpg" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CCpResource build/Debug-iphonesimulator/Paparazzi.app/IMG_0416.JPG IMG_0416.JPG
+s315713767.676761
+e315713767.706661
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Paparazzi.app/IMG_0416.JPG
+xIMG_0416.JPG
+lSLF07#2@17"Copy IMG_0416.JPG315713767#315713767#0(0"0(0#0#67"/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0416.JPG8651275680#526"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0416.JPG" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CCpResource build/Debug-iphonesimulator/Paparazzi.app/IMG_0434.JPG IMG_0434.JPG
+s315713767.677674
+e315713767.706830
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Paparazzi.app/IMG_0434.JPG
+xIMG_0434.JPG
+lSLF07#2@17"Copy IMG_0434.JPG315713767#315713767#0(0"0(0#0#67"/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0434.JPG8650249056#526"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0434.JPG" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CCpResource build/Debug-iphonesimulator/Paparazzi.app/IMG_0438.JPG IMG_0438.JPG
+s315713767.685172
+e315713767.706970
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Paparazzi.app/IMG_0438.JPG
+xIMG_0438.JPG
+lSLF07#2@17"Copy IMG_0438.JPG315713767#315713767#0(0"0(0#0#67"/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0438.JPG8649848896#526"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0438.JPG" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CCpResource build/Debug-iphonesimulator/Paparazzi.app/IMG_0440.JPG IMG_0440.JPG
+s315713767.692052
+e315713767.707106
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Paparazzi.app/IMG_0440.JPG
+xIMG_0440.JPG
+lSLF07#2@17"Copy IMG_0440.JPG315713767#315713767#0(0"0(0#0#67"/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0440.JPG8648316192#526"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Paparazzi/IMG_0440.JPG" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CCpResource build/Debug-iphonesimulator/Paparazzi.app/images-1.jpeg images-1.jpeg
+s315713766.963039
+e315713766.982156
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Paparazzi.app/images-1.jpeg
+ximages-1.jpeg
+lSLF07#2@18"Copy images-1.jpeg315713766#315713766#0(0"0(0#0#68"/Users/lim6112j/Documents/iPhone Development/Paparazzi/images-1.jpeg8665322528#527"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Paparazzi/images-1.jpeg" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CCpResource build/Debug-iphonesimulator/Paparazzi.app/photo1.jpg photo1.jpg
+s315713768.130669
+e315713768.140479
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Paparazzi.app/photo1.jpg
+xphoto1.jpg
+lSLF07#2@15"Copy photo1.jpg315713768#315713768#0(0"0(0#0#65"/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo1.jpg8652317632#524"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo1.jpg" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CCpResource build/Debug-iphonesimulator/Paparazzi.app/photo2.jpg photo2.jpg
+s315713768.131523
+e315713768.140630
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Paparazzi.app/photo2.jpg
+xphoto2.jpg
+lSLF07#2@15"Copy photo2.jpg315713768#315713768#0(0"0(0#0#65"/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo2.jpg8648244736#524"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo2.jpg" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CCpResource build/Debug-iphonesimulator/Paparazzi.app/photo3.jpg photo3.jpg
+s315713768.132452
+e315713768.147134
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Paparazzi.app/photo3.jpg
+xphoto3.jpg
+lSLF07#2@15"Copy photo3.jpg315713768#315713768#0(0"0(0#0#65"/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo3.jpg8648073600#524"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Paparazzi/photo3.jpg" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CCpResource build/Debug-iphonesimulator/Paparazzi.app/증명사진.jpeg 증명사진.jpeg
+s315713766.441703
+e315713766.461450
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Paparazzi.app/증명사진.jpeg
+x증명사진.jpeg
+lSLF07#2@43"Copy 증명사진.jpeg315713766#315713766#0(0"0(0#0#93"/Users/lim6112j/Documents/iPhone Development/Paparazzi/증명사진.jpeg8664803904#552"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Paparazzi/증명사진.jpeg" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+
+CDataModelCompile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/temp.mom" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/temp.xcdatamodel"
+s315713769.142128
+e315713769.198297
+r1
+xDataModelCompile
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/temp.mom
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/temp.xcdatamodel
+lSLF07#2@79"Compile /Users/lim6112j/Documents/iPhone Development/Paparazzi/temp.xcdatamodel315713769#315713769#0(0"0(0#0#71"/Users/lim6112j/Documents/iPhone Development/Paparazzi/temp.xcdatamodel8625458880#434"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/lim6112j/Documents/iPhone Development/Paparazzi/temp.xcdatamodel" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/temp.mom"0#
+
+CGenerateDSYMFile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app.dSYM" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi"
+s315713770.023062
+e315713770.067989
+r1
+xGenerateDSYMFile
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app.dSYM
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Paparazzi.app.dSYM build/Debug-iphonesimulator/Paparazzi.app/Paparazzi315713770#315713770#0(0"0(0#0#106"/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi8646441728#443"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi" -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app.dSYM"0#
+
+CLd "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi" normal i386
+s315713769.979180
+e315713770.022937
+r1
+xLd
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi
+xnormal
+xi386
+lSLF07#2@111"Link /Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi315713769#315713770#0(0"0(0#0#0"8647481312#1032"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" -filelist "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Objects-normal/i386/Paparazzi.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -lsqlite3.0 -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Paparazzi"0#
+
+CProcessInfoPlistFile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Info.plist" Paparazzi-Info.plist
+s315713765.789805
+e315713765.832896
+r1
+xProcessInfoPlistFile
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Info.plist
+xPaparazzi-Info.plist
+lSLF07#2@28"Process Paparazzi-Info.plist315713765#315713765#0(0"0(0#0#75"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Paparazzi-Info.plist8651178880#539"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Paparazzi-Info.plist -genpkginfo "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app/Info.plist"0#
+
+CProcessPCH /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch.gch Paparazzi_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315713768.271861
+e315713769.141879
+r1
+xProcessPCH
+x/var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch.gch
+xPaparazzi_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Paparazzi_Prefix.pch315713768#315713769#0(0"0(0#0#75"/Users/lim6112j/Documents/iPhone Development/Paparazzi/Paparazzi_Prefix.pch8647318912#2024"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/Paparazzi-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/include" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources/i386" "-I/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphonesimulator/Paparazzi.build/DerivedSources" -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Paparazzi_Prefix.pch" -o /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-eytdfifzfnqdpudokkkbpbxfyiew/Paparazzi_Prefix.pch.gch0#
+
+CTouch "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"
+s315713770.068101
+e315713770.073480
+r1
+xTouch
+x/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app
+lSLF07#2@102"Touch /Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app315713770#315713770#0(0"0(0#0#0"8665319648#316"    cd "/Users/lim6112j/Documents/iPhone Development/Paparazzi"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphonesimulator/Paparazzi.app"0#
+

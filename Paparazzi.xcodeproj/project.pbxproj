@@ -1,0 +1,522 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* PaparazziAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* PaparazziAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		7F050EC912D1B128003A4B1F /* AddModalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F050EC712D1B128003A4B1F /* AddModalViewController.m */; };
+		7F050ECA12D1B128003A4B1F /* AddModalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F050EC812D1B128003A4B1F /* AddModalViewController.xib */; };
+		7F050EE712D1B4C6003A4B1F /* FlickrFetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F050EE512D1B4C6003A4B1F /* FlickrFetcher.m */; };
+		7F050EF712D1B4EA003A4B1F /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F050EEC12D1B4EA003A4B1F /* NSObject+SBJSON.m */; };
+		7F050EF812D1B4EA003A4B1F /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F050EEE12D1B4EA003A4B1F /* NSString+SBJSON.m */; };
+		7F050EF912D1B4EA003A4B1F /* SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F050EF012D1B4EA003A4B1F /* SBJSON.m */; };
+		7F050EFA12D1B4EA003A4B1F /* SBJsonBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F050EF212D1B4EA003A4B1F /* SBJsonBase.m */; };
+		7F050EFB12D1B4EA003A4B1F /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F050EF412D1B4EA003A4B1F /* SBJsonParser.m */; };
+		7F050EFC12D1B4EA003A4B1F /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F050EF612D1B4EA003A4B1F /* SBJsonWriter.m */; };
+		7F050F0212D1B5A1003A4B1F /* globe.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F050F0112D1B5A1003A4B1F /* globe.png */; };
+		7F09C73512B4BCBD004D3794 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F09C73412B4BCBD004D3794 /* Person.m */; };
+		7F10CA4412A5011200B2004C /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F10CA4312A5011200B2004C /* libsqlite3.0.dylib */; };
+		7F1DF48612A480F800D708F1 /* IMG_0416.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 7F1DF48212A480F800D708F1 /* IMG_0416.JPG */; };
+		7F1DF48712A480F800D708F1 /* IMG_0434.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 7F1DF48312A480F800D708F1 /* IMG_0434.JPG */; };
+		7F1DF48812A480F800D708F1 /* IMG_0438.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 7F1DF48412A480F800D708F1 /* IMG_0438.JPG */; };
+		7F1DF48912A480F800D708F1 /* IMG_0440.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 7F1DF48512A480F800D708F1 /* IMG_0440.JPG */; };
+		7F1DF4A912A4849900D708F1 /* FourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F1DF4A712A4849900D708F1 /* FourthViewController.m */; };
+		7F1DF4AA12A4849900D708F1 /* FourthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F1DF4A812A4849900D708F1 /* FourthViewController.xib */; };
+		7F1DF4B212A4945D00D708F1 /* FakeData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7F1DF4B112A4945D00D708F1 /* FakeData.plist */; };
+		7F1DF4B912A4948600D708F1 /* photo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F1DF4B512A4948600D708F1 /* photo1.jpg */; };
+		7F1DF4BA12A4948600D708F1 /* photo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F1DF4B612A4948600D708F1 /* photo2.jpg */; };
+		7F1DF4BB12A4948600D708F1 /* photo3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F1DF4B712A4948600D708F1 /* photo3.jpg */; };
+		7F1DF4FF12A498F300D708F1 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F1DF4FE12A498F300D708F1 /* CoreData.framework */; };
+		7F3D406E12D8043D006167DD /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F3D406C12D8043D006167DD /* MapViewController.m */; };
+		7F3D406F12D8043D006167DD /* MapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F3D406D12D8043D006167DD /* MapViewController.xib */; };
+		7F3D40DC12D80C23006167DD /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F3D40DB12D80C23006167DD /* MapKit.framework */; };
+		7F3D47E812D98852006167DD /* Scale.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F3D47E712D98852006167DD /* Scale.m */; };
+		7F9CC57C1299B82200AD3683 /* PersonListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F9CC57A1299B82200AD3683 /* PersonListViewController.m */; };
+		7F9CC57D1299B82200AD3683 /* PersonListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F9CC57B1299B82200AD3683 /* PersonListViewController.xib */; };
+		7F9CC5861299B87300AD3683 /* PhotoListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F9CC5841299B87300AD3683 /* PhotoListViewController.m */; };
+		7F9CC5871299B87300AD3683 /* PhotoListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F9CC5851299B87300AD3683 /* PhotoListViewController.xib */; };
+		7F9CC5981299B9F400AD3683 /* SK 네트웍스.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9CC5971299B9F400AD3683 /* SK 네트웍스.jpg */; };
+		7F9CC59C1299BA1F00AD3683 /* 증명사진.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9CC59B1299BA1F00AD3683 /* 증명사진.jpeg */; };
+		7FBAEE1D129D073700062AB7 /* ThirdPersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FBAEE1B129D073700062AB7 /* ThirdPersonViewController.m */; };
+		7FBAEE1E129D073700062AB7 /* ThirdPersonViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7FBAEE1C129D073700062AB7 /* ThirdPersonViewController.xib */; };
+		7FBC7DA412B0B1FF00A95128 /* Photo.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FBC7DA312B0B1FF00A95128 /* Photo.m */; };
+		7FCA1EAB12AC839300696DD7 /* temp.xcdatamodel in Sources */ = {isa = PBXBuildFile; fileRef = 7FCA1EAA12AC839300696DD7 /* temp.xcdatamodel */; };
+		7FE0C3DC12DB6BB700AFD658 /* TrdCondition.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FE0C3DB12DB6BB700AFD658 /* TrdCondition.m */; };
+		7FF6E755129B506100694F10 /* images-1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7FF6E754129B506100694F10 /* images-1.jpeg */; };
+		7FFA316E12A39E4C00C654EA /* SecondPhotoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FFA316C12A39E4C00C654EA /* SecondPhotoViewController.m */; };
+		7FFA316F12A39E4C00C654EA /* SecondPhotoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7FFA316D12A39E4C00C654EA /* SecondPhotoViewController.xib */; };
+		7FFA317312A39E5900C654EA /* ThirdPhotoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FFA317112A39E5900C654EA /* ThirdPhotoViewController.m */; };
+		7FFA317412A39E5900C654EA /* ThirdPhotoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7FFA317212A39E5900C654EA /* ThirdPhotoViewController.xib */; };
+		7FFB0869129ABFA500FC432E /* SecondPersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FFB0867129ABFA500FC432E /* SecondPersonViewController.m */; };
+		7FFB086A129ABFA500FC432E /* SecondPersonViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7FFB0868129ABFA500FC432E /* SecondPersonViewController.xib */; };
+		7FFF1EE012DA11C7003DCA77 /* Annotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FFF1EDF12DA11C7003DCA77 /* Annotation.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* PaparazziAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PaparazziAppDelegate.h; path = Classes/PaparazziAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* PaparazziAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PaparazziAppDelegate.m; path = Classes/PaparazziAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Paparazzi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Paparazzi.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Paparazzi_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Paparazzi_Prefix.pch; sourceTree = "<group>"; };
+		7F050EC612D1B128003A4B1F /* AddModalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddModalViewController.h; sourceTree = "<group>"; };
+		7F050EC712D1B128003A4B1F /* AddModalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddModalViewController.m; sourceTree = "<group>"; };
+		7F050EC812D1B128003A4B1F /* AddModalViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AddModalViewController.xib; path = Classes/AddModalViewController.xib; sourceTree = "<group>"; };
+		7F050EE512D1B4C6003A4B1F /* FlickrFetcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlickrFetcher.m; sourceTree = "<group>"; };
+		7F050EE612D1B4C6003A4B1F /* FlickrFetcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlickrFetcher.h; sourceTree = "<group>"; };
+		7F050EEA12D1B4EA003A4B1F /* JSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSON.h; sourceTree = "<group>"; };
+		7F050EEB12D1B4EA003A4B1F /* NSObject+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJSON.h"; sourceTree = "<group>"; };
+		7F050EEC12D1B4EA003A4B1F /* NSObject+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJSON.m"; sourceTree = "<group>"; };
+		7F050EED12D1B4EA003A4B1F /* NSString+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+SBJSON.h"; sourceTree = "<group>"; };
+		7F050EEE12D1B4EA003A4B1F /* NSString+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+SBJSON.m"; sourceTree = "<group>"; };
+		7F050EEF12D1B4EA003A4B1F /* SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJSON.h; sourceTree = "<group>"; };
+		7F050EF012D1B4EA003A4B1F /* SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJSON.m; sourceTree = "<group>"; };
+		7F050EF112D1B4EA003A4B1F /* SBJsonBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonBase.h; sourceTree = "<group>"; };
+		7F050EF212D1B4EA003A4B1F /* SBJsonBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonBase.m; sourceTree = "<group>"; };
+		7F050EF312D1B4EA003A4B1F /* SBJsonParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonParser.h; sourceTree = "<group>"; };
+		7F050EF412D1B4EA003A4B1F /* SBJsonParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonParser.m; sourceTree = "<group>"; };
+		7F050EF512D1B4EA003A4B1F /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
+		7F050EF612D1B4EA003A4B1F /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
+		7F050F0112D1B5A1003A4B1F /* globe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = globe.png; sourceTree = "<group>"; };
+		7F050F0712D1B789003A4B1F /* FlickrAPIKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlickrAPIKey.h; sourceTree = "<group>"; };
+		7F09C73312B4BCBD004D3794 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		7F09C73412B4BCBD004D3794 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		7F10CA4312A5011200B2004C /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		7F1DF48212A480F800D708F1 /* IMG_0416.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0416.JPG; sourceTree = "<group>"; };
+		7F1DF48312A480F800D708F1 /* IMG_0434.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0434.JPG; sourceTree = "<group>"; };
+		7F1DF48412A480F800D708F1 /* IMG_0438.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0438.JPG; sourceTree = "<group>"; };
+		7F1DF48512A480F800D708F1 /* IMG_0440.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0440.JPG; sourceTree = "<group>"; };
+		7F1DF4A612A4849900D708F1 /* FourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthViewController.h; sourceTree = "<group>"; };
+		7F1DF4A712A4849900D708F1 /* FourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthViewController.m; sourceTree = "<group>"; };
+		7F1DF4A812A4849900D708F1 /* FourthViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = FourthViewController.xib; path = Classes/FourthViewController.xib; sourceTree = "<group>"; };
+		7F1DF4B112A4945D00D708F1 /* FakeData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FakeData.plist; sourceTree = "<group>"; };
+		7F1DF4B512A4948600D708F1 /* photo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = photo1.jpg; sourceTree = "<group>"; };
+		7F1DF4B612A4948600D708F1 /* photo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = photo2.jpg; sourceTree = "<group>"; };
+		7F1DF4B712A4948600D708F1 /* photo3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = photo3.jpg; sourceTree = "<group>"; };
+		7F1DF4FE12A498F300D708F1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		7F3D406B12D8043C006167DD /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		7F3D406C12D8043D006167DD /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		7F3D406D12D8043D006167DD /* MapViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MapViewController.xib; sourceTree = "<group>"; };
+		7F3D40DB12D80C23006167DD /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		7F3D47E612D98852006167DD /* Scale.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Scale.h; sourceTree = "<group>"; };
+		7F3D47E712D98852006167DD /* Scale.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Scale.m; sourceTree = "<group>"; };
+		7F9CC5791299B82200AD3683 /* PersonListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonListViewController.h; sourceTree = "<group>"; };
+		7F9CC57A1299B82200AD3683 /* PersonListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonListViewController.m; sourceTree = "<group>"; };
+		7F9CC57B1299B82200AD3683 /* PersonListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = PersonListViewController.xib; path = Classes/PersonListViewController.xib; sourceTree = "<group>"; };
+		7F9CC5831299B87300AD3683 /* PhotoListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PhotoListViewController.h; path = Classes/PhotoListViewController.h; sourceTree = "<group>"; };
+		7F9CC5841299B87300AD3683 /* PhotoListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PhotoListViewController.m; path = Classes/PhotoListViewController.m; sourceTree = "<group>"; };
+		7F9CC5851299B87300AD3683 /* PhotoListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = PhotoListViewController.xib; path = Classes/PhotoListViewController.xib; sourceTree = "<group>"; };
+		7F9CC5971299B9F400AD3683 /* SK 네트웍스.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "SK 네트웍스.jpg"; sourceTree = "<group>"; };
+		7F9CC59B1299BA1F00AD3683 /* 증명사진.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "증명사진.jpeg"; sourceTree = "<group>"; };
+		7FBAEE1A129D073700062AB7 /* ThirdPersonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdPersonViewController.h; sourceTree = "<group>"; };
+		7FBAEE1B129D073700062AB7 /* ThirdPersonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdPersonViewController.m; sourceTree = "<group>"; };
+		7FBAEE1C129D073700062AB7 /* ThirdPersonViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ThirdPersonViewController.xib; path = Classes/ThirdPersonViewController.xib; sourceTree = "<group>"; };
+		7FBC7DA212B0B1FF00A95128 /* Photo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Photo.h; sourceTree = "<group>"; };
+		7FBC7DA312B0B1FF00A95128 /* Photo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Photo.m; sourceTree = "<group>"; };
+		7FCA1EAA12AC839300696DD7 /* temp.xcdatamodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcdatamodel; path = temp.xcdatamodel; sourceTree = "<group>"; };
+		7FE0C3DA12DB6BB700AFD658 /* TrdCondition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TrdCondition.h; sourceTree = "<group>"; };
+		7FE0C3DB12DB6BB700AFD658 /* TrdCondition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TrdCondition.m; sourceTree = "<group>"; };
+		7FF6E754129B506100694F10 /* images-1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-1.jpeg"; sourceTree = "<group>"; };
+		7FFA316B12A39E4C00C654EA /* SecondPhotoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondPhotoViewController.h; sourceTree = "<group>"; };
+		7FFA316C12A39E4C00C654EA /* SecondPhotoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondPhotoViewController.m; sourceTree = "<group>"; };
+		7FFA316D12A39E4C00C654EA /* SecondPhotoViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SecondPhotoViewController.xib; sourceTree = "<group>"; };
+		7FFA317012A39E5900C654EA /* ThirdPhotoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdPhotoViewController.h; sourceTree = "<group>"; };
+		7FFA317112A39E5900C654EA /* ThirdPhotoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdPhotoViewController.m; sourceTree = "<group>"; };
+		7FFA317212A39E5900C654EA /* ThirdPhotoViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ThirdPhotoViewController.xib; sourceTree = "<group>"; };
+		7FFB0866129ABFA500FC432E /* SecondPersonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondPersonViewController.h; sourceTree = "<group>"; };
+		7FFB0867129ABFA500FC432E /* SecondPersonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondPersonViewController.m; sourceTree = "<group>"; };
+		7FFB0868129ABFA500FC432E /* SecondPersonViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SecondPersonViewController.xib; path = Classes/SecondPersonViewController.xib; sourceTree = "<group>"; };
+		7FFF1EDE12DA11C7003DCA77 /* Annotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Annotation.h; sourceTree = "<group>"; };
+		7FFF1EDF12DA11C7003DCA77 /* Annotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Annotation.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Paparazzi-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Paparazzi-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				7F1DF4FF12A498F300D708F1 /* CoreData.framework in Frameworks */,
+				7F10CA4412A5011200B2004C /* libsqlite3.0.dylib in Frameworks */,
+				7F3D40DC12D80C23006167DD /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* person */ = {
+			isa = PBXGroup;
+			children = (
+				7F050EE512D1B4C6003A4B1F /* FlickrFetcher.m */,
+				7F050EE612D1B4C6003A4B1F /* FlickrFetcher.h */,
+				7F9CC5791299B82200AD3683 /* PersonListViewController.h */,
+				7F9CC57A1299B82200AD3683 /* PersonListViewController.m */,
+				7FFB0866129ABFA500FC432E /* SecondPersonViewController.h */,
+				7FFB0867129ABFA500FC432E /* SecondPersonViewController.m */,
+				7FBAEE1A129D073700062AB7 /* ThirdPersonViewController.h */,
+				7FBAEE1B129D073700062AB7 /* ThirdPersonViewController.m */,
+				7F1DF4A612A4849900D708F1 /* FourthViewController.h */,
+				7F1DF4A712A4849900D708F1 /* FourthViewController.m */,
+				7F09C73312B4BCBD004D3794 /* Person.h */,
+				7F09C73412B4BCBD004D3794 /* Person.m */,
+				7F050EC612D1B128003A4B1F /* AddModalViewController.h */,
+				7F050EC712D1B128003A4B1F /* AddModalViewController.m */,
+				7F050F0712D1B789003A4B1F /* FlickrAPIKey.h */,
+			);
+			name = person;
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Paparazzi.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				7F050EE912D1B4EA003A4B1F /* JSON */,
+				7F3D406A12D803BF006167DD /* Map */,
+				7FFA316A12A39E1C00C654EA /* photo */,
+				080E96DDFE201D6D7F000001 /* person */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				7FFA317B12A3A0D900C654EA /* Photo resource */,
+				29B97317FDCFA39411CA2CEA /* Person resource */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				7FCA1EAA12AC839300696DD7 /* temp.xcdatamodel */,
+				7F1DF4B112A4945D00D708F1 /* FakeData.plist */,
+				1D3623240D0F684500981E51 /* PaparazziAppDelegate.h */,
+				1D3623250D0F684500981E51 /* PaparazziAppDelegate.m */,
+				32CA4F630368D1EE00C91783 /* Paparazzi_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+				7FE0C3DA12DB6BB700AFD658 /* TrdCondition.h */,
+				7FE0C3DB12DB6BB700AFD658 /* TrdCondition.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Person resource */ = {
+			isa = PBXGroup;
+			children = (
+				7F050EC812D1B128003A4B1F /* AddModalViewController.xib */,
+				7F9CC57B1299B82200AD3683 /* PersonListViewController.xib */,
+				7FFB0868129ABFA500FC432E /* SecondPersonViewController.xib */,
+				7FBAEE1C129D073700062AB7 /* ThirdPersonViewController.xib */,
+				7F1DF4A812A4849900D708F1 /* FourthViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* Paparazzi-Info.plist */,
+				7F9CC5931299B97900AD3683 /* images */,
+			);
+			name = "Person resource";
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				7F1DF4FE12A498F300D708F1 /* CoreData.framework */,
+				7F10CA4312A5011200B2004C /* libsqlite3.0.dylib */,
+				7F3D40DB12D80C23006167DD /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7F050EE912D1B4EA003A4B1F /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				7F050EEA12D1B4EA003A4B1F /* JSON.h */,
+				7F050EEB12D1B4EA003A4B1F /* NSObject+SBJSON.h */,
+				7F050EEC12D1B4EA003A4B1F /* NSObject+SBJSON.m */,
+				7F050EED12D1B4EA003A4B1F /* NSString+SBJSON.h */,
+				7F050EEE12D1B4EA003A4B1F /* NSString+SBJSON.m */,
+				7F050EEF12D1B4EA003A4B1F /* SBJSON.h */,
+				7F050EF012D1B4EA003A4B1F /* SBJSON.m */,
+				7F050EF112D1B4EA003A4B1F /* SBJsonBase.h */,
+				7F050EF212D1B4EA003A4B1F /* SBJsonBase.m */,
+				7F050EF312D1B4EA003A4B1F /* SBJsonParser.h */,
+				7F050EF412D1B4EA003A4B1F /* SBJsonParser.m */,
+				7F050EF512D1B4EA003A4B1F /* SBJsonWriter.h */,
+				7F050EF612D1B4EA003A4B1F /* SBJsonWriter.m */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
+		7F3D406A12D803BF006167DD /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				7F3D406B12D8043C006167DD /* MapViewController.h */,
+				7F3D406C12D8043D006167DD /* MapViewController.m */,
+				7F3D406D12D8043D006167DD /* MapViewController.xib */,
+				7FFF1EDE12DA11C7003DCA77 /* Annotation.h */,
+				7FFF1EDF12DA11C7003DCA77 /* Annotation.m */,
+			);
+			name = Map;
+			sourceTree = "<group>";
+		};
+		7F9CC5931299B97900AD3683 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				7F1DF4B512A4948600D708F1 /* photo1.jpg */,
+				7F1DF4B612A4948600D708F1 /* photo2.jpg */,
+				7F1DF4B712A4948600D708F1 /* photo3.jpg */,
+				7F1DF48212A480F800D708F1 /* IMG_0416.JPG */,
+				7F1DF48312A480F800D708F1 /* IMG_0434.JPG */,
+				7F1DF48412A480F800D708F1 /* IMG_0438.JPG */,
+				7F1DF48512A480F800D708F1 /* IMG_0440.JPG */,
+				7FF6E754129B506100694F10 /* images-1.jpeg */,
+				7F9CC59B1299BA1F00AD3683 /* 증명사진.jpeg */,
+				7F9CC5971299B9F400AD3683 /* SK 네트웍스.jpg */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		7FFA316A12A39E1C00C654EA /* photo */ = {
+			isa = PBXGroup;
+			children = (
+				7FFA317012A39E5900C654EA /* ThirdPhotoViewController.h */,
+				7FFA317112A39E5900C654EA /* ThirdPhotoViewController.m */,
+				7F9CC5831299B87300AD3683 /* PhotoListViewController.h */,
+				7F9CC5841299B87300AD3683 /* PhotoListViewController.m */,
+				7FFA316B12A39E4C00C654EA /* SecondPhotoViewController.h */,
+				7FFA316C12A39E4C00C654EA /* SecondPhotoViewController.m */,
+				7FBC7DA212B0B1FF00A95128 /* Photo.h */,
+				7FBC7DA312B0B1FF00A95128 /* Photo.m */,
+				7F3D47E612D98852006167DD /* Scale.h */,
+				7F3D47E712D98852006167DD /* Scale.m */,
+			);
+			name = photo;
+			sourceTree = "<group>";
+		};
+		7FFA317B12A3A0D900C654EA /* Photo resource */ = {
+			isa = PBXGroup;
+			children = (
+				7F050F0112D1B5A1003A4B1F /* globe.png */,
+				7F9CC5851299B87300AD3683 /* PhotoListViewController.xib */,
+				7FFA316D12A39E4C00C654EA /* SecondPhotoViewController.xib */,
+				7FFA317212A39E5900C654EA /* ThirdPhotoViewController.xib */,
+			);
+			name = "Photo resource";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Paparazzi */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Paparazzi" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Paparazzi;
+			productName = Paparazzi;
+			productReference = 1D6058910D05DD3D006BFB54 /* Paparazzi.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0410;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Paparazzi" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Paparazzi */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				7F9CC57D1299B82200AD3683 /* PersonListViewController.xib in Resources */,
+				7F9CC5871299B87300AD3683 /* PhotoListViewController.xib in Resources */,
+				7F9CC5981299B9F400AD3683 /* SK 네트웍스.jpg in Resources */,
+				7F9CC59C1299BA1F00AD3683 /* 증명사진.jpeg in Resources */,
+				7FFB086A129ABFA500FC432E /* SecondPersonViewController.xib in Resources */,
+				7FF6E755129B506100694F10 /* images-1.jpeg in Resources */,
+				7FBAEE1E129D073700062AB7 /* ThirdPersonViewController.xib in Resources */,
+				7FFA316F12A39E4C00C654EA /* SecondPhotoViewController.xib in Resources */,
+				7FFA317412A39E5900C654EA /* ThirdPhotoViewController.xib in Resources */,
+				7F1DF48612A480F800D708F1 /* IMG_0416.JPG in Resources */,
+				7F1DF48712A480F800D708F1 /* IMG_0434.JPG in Resources */,
+				7F1DF48812A480F800D708F1 /* IMG_0438.JPG in Resources */,
+				7F1DF48912A480F800D708F1 /* IMG_0440.JPG in Resources */,
+				7F1DF4AA12A4849900D708F1 /* FourthViewController.xib in Resources */,
+				7F1DF4B212A4945D00D708F1 /* FakeData.plist in Resources */,
+				7F1DF4B912A4948600D708F1 /* photo1.jpg in Resources */,
+				7F1DF4BA12A4948600D708F1 /* photo2.jpg in Resources */,
+				7F1DF4BB12A4948600D708F1 /* photo3.jpg in Resources */,
+				7F050ECA12D1B128003A4B1F /* AddModalViewController.xib in Resources */,
+				7F050F0212D1B5A1003A4B1F /* globe.png in Resources */,
+				7F3D406F12D8043D006167DD /* MapViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* PaparazziAppDelegate.m in Sources */,
+				7F9CC57C1299B82200AD3683 /* PersonListViewController.m in Sources */,
+				7F9CC5861299B87300AD3683 /* PhotoListViewController.m in Sources */,
+				7FFB0869129ABFA500FC432E /* SecondPersonViewController.m in Sources */,
+				7FBAEE1D129D073700062AB7 /* ThirdPersonViewController.m in Sources */,
+				7FFA316E12A39E4C00C654EA /* SecondPhotoViewController.m in Sources */,
+				7FFA317312A39E5900C654EA /* ThirdPhotoViewController.m in Sources */,
+				7F1DF4A912A4849900D708F1 /* FourthViewController.m in Sources */,
+				7FCA1EAB12AC839300696DD7 /* temp.xcdatamodel in Sources */,
+				7FBC7DA412B0B1FF00A95128 /* Photo.m in Sources */,
+				7F09C73512B4BCBD004D3794 /* Person.m in Sources */,
+				7F050EC912D1B128003A4B1F /* AddModalViewController.m in Sources */,
+				7F050EE712D1B4C6003A4B1F /* FlickrFetcher.m in Sources */,
+				7F050EF712D1B4EA003A4B1F /* NSObject+SBJSON.m in Sources */,
+				7F050EF812D1B4EA003A4B1F /* NSString+SBJSON.m in Sources */,
+				7F050EF912D1B4EA003A4B1F /* SBJSON.m in Sources */,
+				7F050EFA12D1B4EA003A4B1F /* SBJsonBase.m in Sources */,
+				7F050EFB12D1B4EA003A4B1F /* SBJsonParser.m in Sources */,
+				7F050EFC12D1B4EA003A4B1F /* SBJsonWriter.m in Sources */,
+				7F3D406E12D8043D006167DD /* MapViewController.m in Sources */,
+				7F3D47E812D98852006167DD /* Scale.m in Sources */,
+				7FFF1EE012DA11C7003DCA77 /* Annotation.m in Sources */,
+				7FE0C3DC12DB6BB700AFD658 /* TrdCondition.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Paparazzi_Prefix.pch;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				INFOPLIST_FILE = "Paparazzi-Info.plist";
+				PRODUCT_NAME = Paparazzi;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Paparazzi_Prefix.pch;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				INFOPLIST_FILE = "Paparazzi-Info.plist";
+				PRODUCT_NAME = Paparazzi;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Paparazzi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Paparazzi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

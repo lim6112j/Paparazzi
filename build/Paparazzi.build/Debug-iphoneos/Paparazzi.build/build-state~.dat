@@ -1,0 +1,204 @@
+TPaparazzi
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.h
+c000000004CE96FE80000000000000148
+t1290366952
+s328
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.m
+c000000004CE96FE800000000000009CC
+t1290366952
+s2508
+i"PaparazziAppDelegate.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/MainWindow.xib
+c000000004CE96FE80000000000002112
+t1290366952
+s8466
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/Paparazzi_Prefix.pch
+c000000004CE96FE800000000000000BB
+t1290366952
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app.dSYM
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app/Info.plist
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app/MainWindow.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app/Paparazzi
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app/PkgInfo
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app/ResourceRules.plist
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv6/Paparazzi
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv6/Paparazzi.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv6/PaparazziAppDelegate.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv7/Paparazzi
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv7/Paparazzi.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv7/PaparazziAppDelegate.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m
+c000000004CE96FE80000000000000166
+t1290366952
+s358
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Library/MobileDevice/Provisioning Profiles/EB86E890-4105-42D3-B873-01B503E85298.mobileprovision
+c000000004CE7B4AD0000000000001D3A
+t1290253485
+s7482
+
+N/var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-ajuleuwhrdvuloevaqginhlilwdr/Paparazzi_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cwqkkpehpgkyzyerrvascmaubvdd/Paparazzi_Prefix.pch.gch
+t2
+s0
+
+NPaparazzi-Info.plist
+c000000004CE96FE8000000000000038D
+t1290366952
+s909
+
+CCodeSign "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app"
+r0
+
+CCompileC build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv6/PaparazziAppDelegate.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv6/main.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv7/PaparazziAppDelegate.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/Classes/PaparazziAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv7/main.o "/Users/lim6112j/Documents/iPhone Development/Paparazzi/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Paparazzi/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/Paparazzi.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app/Paparazzi" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app.dSYM" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app/Paparazzi"
+r0
+
+CLd "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv6/Paparazzi" normal armv6
+r0
+
+CLd "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Objects-normal/armv7/Paparazzi" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app/Info.plist" Paparazzi-Info.plist
+r0
+
+CProcessPCH /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-ajuleuwhrdvuloevaqginhlilwdr/Paparazzi_Prefix.pch.gch Paparazzi_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paparazzi_Prefix-cwqkkpehpgkyzyerrvascmaubvdd/Paparazzi_Prefix.pch.gch Paparazzi_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/lim6112j/Library/MobileDevice/Provisioning Profiles/EB86E890-4105-42D3-B873-01B503E85298.mobileprovision" "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Paparazzi.build/Debug-iphoneos/Paparazzi.build/Paparazzi.xcent"
+r0
+
+CTouch "/Users/lim6112j/Documents/iPhone Development/Paparazzi/build/Debug-iphoneos/Paparazzi.app"
+r0
+
